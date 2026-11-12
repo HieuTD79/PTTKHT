@@ -1,0 +1,1 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %><!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><title>Khách hàng - GaraMan</title></head><body><h2>GaraMan - Khách hàng</h2><a href="gdDatLichHen.jsp">Đặt lịch hẹn trực tuyến</a></body></html>
